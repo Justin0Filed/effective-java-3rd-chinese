@@ -1,6 +1,6 @@
 # effective-java-3rd-chinese
 
-前51条：文章翻译来源地址：[https://www.jianshu.com/c/ce8cf0e13b23](https://www.jianshu.com/c/ce8cf0e13b23)
+文章翻译来源地址：[https://www.jianshu.com/c/ce8cf0e13b23](https://www.jianshu.com/c/ce8cf0e13b23)
 
 现在全部章节已经更新完成
 - [github pages](https://sjsdfg.github.io/effective-java-3rd-chinese/#/)：提供更好的在线阅读版本
@@ -17,11 +17,6 @@
 
 markdown 文件以及英文版原版链接也都放在了 github 上面，希望小伙伴也可以中英文对照，给出一些意见。
 
-## 一起来交流
-
-Effective Java 第三版翻译校对群：[909059971](https://jq.qq.com/?_wv=1027&k=5tscKwN)
-
-![Effective Java 第三版翻译校对群](https://img-blog.csdnimg.cn/20190802232410489.png)
 
 ## 额外资源
 
